@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieSubmission5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">Film</string>
+    <string name="tvshow">Acara TV</string>
+
+    <string name="date">Tanggal :</string>
+    <string name="rate">Nilai :</string>
+    <string name="desc">Keterangan :</string>
+    <string name="language_setting">Ubah Pengaturan Bahasa</string>
+
+    <string name="remove">hapus</string>
+    <string name="favorite">favorit</string>
+    <string name="home">beranda</string>
+
+
+    <string name="appwidget_text">Favorit Film dan Acara Tv</string>
+    <string name="empty_text">Tidak ada DATA</string>
+
+
+    <string name="search">Pencarian</string>
+    <string name="setting">Pengaturan</string>
+    <string name="Language">Bahasa</string>
+    <string name="release_movie">Film Rilis</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="DAILYKEY">daily_notification_key</string>
+    <string name="LANGUAGEKEY">language_change_key</string>
+    <string name="RELEASEKEY">release_movie_notification_key</string>
+
+<!--    <string name="starisboarn_desc">Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karir Allys lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan roh-roh jahatnya sendiri.</string>-->
+<!--    <string name="alita_desc">Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa. lalu.</string>-->
+<!--    <string name="marryqueen_desc">Pada 1561, Mary Stuart, janda Raja Prancis, kembali ke Skotlandia, merebut kembali tahta yang sah dan mengancam masa depan Ratu Elizabeth I sebagai penguasa Inggris, karena ia memiliki klaim sah atas takhta Inggris. Pengkhianatan, pemberontakan, konspirasi, dan pilihan hidup mereka sendiri membahayakan Ratu. Mereka mengalami biaya kekuasaan yang pahit, sampai nasib tragis mereka akhirnya terpenuhi.</string>-->
+<!--    <string name="bohemian_desc">Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan.</string>-->
+<!--    <string name="coldpursuit_desc">Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang dimilikinya yang bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Ketika Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan keras, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi.</string>-->
+<!--    <string name="creed_desc">Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</string>-->
+<!--    <string name="crime_desc">Gellert Grindelwald telah lolos dari penjara dan mulai mengumpulkan pengikut untuk tujuan-nya - meninggikan penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis ditarik ketika cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia sihir yang semakin terpecah.</string>-->
+<!--    <string name="glass_desc">Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai orkestra yang menyimpan rahasia penting bagi keduanya.</string>-->
+<!--    <string name="mortalengine_desc">Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami pertemuan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</string>-->
+<!--    <string name="serenity_desc">Kehidupan yang tenang dari Baker Dill, seorang kapten kapal penangkap ikan yang tinggal di Pulau Plymouth yang terpencil, tempat ia menghabiskan hari-harinya terobsesi dengan menangkap tuna yang sulit ditangkap saat melawan iblis pribadinya, terganggu ketika seseorang dari masa lalunya datang kepadanya mencari bantuan.</string>-->
+
+<!--    <string name="arrow_desc">Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</string>-->
+<!--    <string name="supernatural_desc">Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajari mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika ... dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi seluruh negeri dengan 67 Chevy Impala mereka, melawan setiap jenis ancaman supernatural yang mereka temui di sepanjang jalan.</string>-->
+<!--    <string name="umbrella_desc">Keluarga superhero yang disfungsional berkumpul untuk memecahkan misteri kematian ayah mereka, ancaman kiamat, dan banyak lagi.</string>-->
+<!--    <string name="fairytail_desc">Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, ia adalah anggota dari salah satu dunia yang memiliki serikat penyihir paling terkenal: Fairy Tail.</string>-->
+<!--    <string name="familyguy_desc">Seri animasi Freakin Sweet yang sakit, terpelintir, tidak benar secara politis dan menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang cerdas tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.</string>-->
+<!--    <string name="walkingdead_desc">Wakil Sheriff Rick Grimes terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia berangkat untuk menemukan keluarganya dan bertemu dengan banyak penyintas lainnya di sepanjang jalan.</string>-->
+<!--    <string name="got_desc">Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno terbangun di utara terjauh. Di tengah-tengah perang, tatanan militer yang diabaikan, Night Watch, adalah yang berdiri di antara dunia manusia dan kengerian es di luar.</string>-->
+<!--    <string name="gotham_desc">Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</string>-->
+<!--    <string name="greyanatomi_desc">Ikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle.</string>-->
+<!--    <string name="hanna_desc">Drama yang menegangkan dan menjadi dewasa ini mengikuti perjalanan seorang gadis muda yang luar biasa ketika ia menghindari pengejaran tanpa henti dari seorang agen CIA yang tidak ada buku dan mencoba untuk menggali kebenaran di balik siapa dirinya. Berdasarkan pada film Joe Wright 2011.</string>-->
+
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Search.SearchActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:background="@color/hitampekat"
+        >
+
+        <EditText
+            android:id="@+id/textTitle"
+            android:layout_width="236dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:background="@color/putih"
+            android:ems="10"
+            android:hint="masukan judul tvshow / movie"
+            android:inputType="text"
+            android:maxLines="1"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20px">
+
+        <Button
+            android:id="@+id/btnMovie"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="0.1"
+            android:background="@color/colorAccent"
+            android:text="Find Movie"
+            android:textColor="@color/putih" />
+            <Button
+                android:layout_marginTop="10px"
+                android:id="@+id/btnTv"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.1"
+                android:background="@color/colorAccent"
+                android:text="Find TVShow"
+                android:textColor="@color/putih" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/movieList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/hitampekat">
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>
